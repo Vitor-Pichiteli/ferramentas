@@ -1,5 +1,7 @@
 #first of all, install the library using pip install pynput
 
+#apenas uma ferramente simples, para iniciar os estudos e testes com ferramentas em python
+
 from pynput import keyboard
 
 def keyPressed(key):
